@@ -8,7 +8,7 @@ GameboyJS is an emulator for the Nintendo Game Boy console. It is written in Jav
 - Install [node.js](http://nodejs.org)
 - `$ npm install -g gulp`
 - `$ npm install`
-- `$ gulp`
+- `$ gulp build`
 
 ## Usage
 
